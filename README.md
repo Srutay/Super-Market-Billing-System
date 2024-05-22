@@ -1,4 +1,3 @@
-# Super-Market-Billing-System
 # Supermarket Management System
 
 ## Description
