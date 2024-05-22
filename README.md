@@ -11,7 +11,6 @@ The Supermarket Management System is a console-based application developed in C+
   - Return to the main menu
 
 - **Buyer Menu**
-  - View the list of available products
   - Purchase products
   - Generate and view receipts for purchases
 
